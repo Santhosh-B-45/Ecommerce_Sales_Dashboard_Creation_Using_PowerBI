@@ -4,7 +4,7 @@
 The Madhav Store aims to enhance their decision-making process by creating a comprehensive dashboard that tracks and analyzes online sales across India. The dashboard includes various visualizations and key performance indicators (KPIs) to provide insights into sales performance and customer behavior.
 
 ### **Dataset used:**
-- Madhav Store Ecommerce Dataset 
+- [Madhav Store Ecommerce Dataset](https://github.com/Santhosh-B-45/Ecommerce_Sales_Dashboard_Creation_Using_PowerBI/blob/main/Details.csv) 
 
 ### **Data Cleaning:**
 - Checked for missing values, anomalies, and inconsistencies in the dataset.
